@@ -1,0 +1,2 @@
+step_length_m,valley_threshold_mps2,min_step_interval_s,window_s,gz_correction_rad_s
+0.7,9.2,0.3,1,0.00436332312998582

@@ -1,0 +1,20 @@
+# 忽略项目根目录下的所有文件和文件夹
+/*
+
+# 保留 .gitignore 本身
+!/.gitignore
+
+# 保留 src 文件夹
+!/src/
+
+# 保留 数据 文件夹
+!/数据-距离交会/
+!/android-data-collection/
+!/数据-行人航迹推算/
+!/数据-信号强度指纹识别/
+
+!/README.md
+# 忽略所有目录中的 exe docx pyc 文件
+*.exe
+*.docx
+*.pyc
