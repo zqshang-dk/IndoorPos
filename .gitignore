@@ -18,3 +18,8 @@
 *.exe
 *.docx
 *.pyc
+*.apk
+
+
+# 忽略指定的数据采集软件说明文件
+/android-data-collection/数据采集软件.md
