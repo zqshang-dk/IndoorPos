@@ -12,7 +12,7 @@
 !/android-data-collection/
 !/数据-行人航迹推算/
 !/数据-信号强度指纹识别/
-
+!/FinalReport/
 !/README.md
 # 忽略所有目录中的 exe docx pyc 文件
 *.exe

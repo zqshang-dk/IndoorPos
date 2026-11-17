@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}研究背景与实验目标}{3}{section.1}%
+\contentsline {section}{\numberline {2}环境、数据与证据范围}{3}{section.2}%
+\contentsline {section}{\numberline {3}理论模型与程序实现}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}距离交会与非线性最小二乘}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}RSS 指纹匹配}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}PDR 航向、步检与位置递推}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}实验设计与结果}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}教室超声测距结果复核}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}RSS 指纹定位复算}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}PDR 轨迹与参考位置对照}{9}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}UWB 标签二维轨迹与垂向偏差}{13}{subsection.4.4}%
+\contentsline {section}{\numberline {5}方法比较与讨论}{13}{section.5}%
+\contentsline {section}{\numberline {6}实现局限与改进方向}{14}{section.6}%
+\contentsline {section}{\numberline {7}结论}{16}{section.7}%
+\contentsline {section}{参考资料}{16}{section*.2}%
+\contentsline {section}{\numberline {A}复算文件与运行说明}{17}{appendix.A}%

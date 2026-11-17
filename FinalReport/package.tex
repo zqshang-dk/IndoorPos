@@ -1,0 +1,145 @@
+\usepackage{geometry}
+\geometry{a4paper,left=2cm,right=2cm,top=2cm,bottom=2cm,headheight=14.5pt}
+
+% 中文支持 - XeLaTeX专用配置
+%\usepackage[UTF8]{ctex}
+
+% XeLaTeX字体设置
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setCJKfamilyfont{kai}{KaiTi}  % 定义楷体
+\newcommand{\kai}{\CJKfamily{kai}}  % 楷体命令
+
+% 设置中文字体
+\setCJKmainfont{SimSun}[AutoFakeBold=true]  % 宋体，启用伪粗体
+\setCJKsansfont{SimHei}  % 黑体
+\setCJKmonofont{FangSong}  % 仿宋
+
+% 设置英文字体为Times New Roman
+\setmainfont{Times New Roman}[
+BoldFont = Times New Roman Bold,
+ItalicFont = Times New Roman Italic,
+BoldItalicFont = Times New Roman Bold Italic
+]
+
+% 数学字体设置
+
+\newcommand{\matr}[1]{\mathbf{#1}}  % 矩阵和向量用粗体
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{unicode-math}
+\usepackage{bm}                          % 粗体数学符号
+\setmathfont{TeX Gyre Termes Math}  % 与Times兼容的数学字体
+
+
+% 基本包
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{color}
+
+% 表格包
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+% 其他必要包
+\usepackage{enumitem}
+% 定义新的 enumerate 环境，使用 1)、2) 格式
+\newlist{mynum}{enumerate}{1}
+\setlist[mynum]{label=\arabic*), leftmargin=*}
+
+\usepackage{setspace}
+\onehalfspacing
+
+% TikZ用于封面
+\usepackage{tikz}
+
+% 设置标题格式
+\ctexset{
+	section = {
+		name={,、},
+		number=\chinese{section},
+		format={\zihao{3}\bfseries\heiti},  % 使用黑体加粗
+		aftername=,
+	},
+	subsection = {
+		format={\zihao{4}\bfseries\heiti},
+	},
+	subsubsection = {
+		format={\zihao{-4}\bfseries\heiti}
+	}
+}
+\usepackage{fancyhdr}
+\fancypagestyle{plain}{% 重定义plain样式
+	\fancyhf{} % 清除所有页眉页脚
+	\fancyhead[L]{\small 室内定位技术·结课报告}  % 居中页眉
+	\renewcommand{\headrulewidth}{0.4pt} % 去掉页眉横线
+	\fancyfoot[C]{\thepage} % 只在页脚中间显示页码
+}
+\pagestyle{plain} % 使用plain样式
+% 修复标签中的中文问题
+\usepackage[unicode]{hyperref}
+\hypersetup{
+	colorlinks=false,
+	pdfborder={0 0 0},
+	allbordercolors={0 0 0},
+	pdfborderstyle={}, 
+	pdfstartview=FitH,
+}
+\usepackage{attachfile2} 
+\usepackage{tabularx}
+\usepackage{booktabs}
+
+\usepackage{verbatim}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+
+\lstset{
+	language=C++,
+	basicstyle=\ttfamily\small\fontsize{10}{8}\selectfont\bfseries,
+	keywordstyle=\color{blue},
+	commentstyle=\color{green!60!black}\fontspec{SimSun}\addfontfeature{LetterSpace=-1},
+	morecomment=[l]{//},         % 行注释
+	morecomment=[s]{/*}{*/},     % 块注释
+	stringstyle=\color{red},
+	numbers=left,
+	numberstyle=\tiny\color{gray},
+	stepnumber=1,
+	numbersep=5pt,
+	backgroundcolor=\color{white},
+	showspaces=false,
+	showstringspaces=false,
+	showtabs=false,
+	frame=single,
+	tabsize=4,
+	captionpos=b,
+	breaklines=true,
+	breakatwhitespace=true,
+	escapeinside={\%*}{*)},
+	morekeywords={NaN, isnan, stod, cerr, cout, endl, cin, ifstream, ofstream, istringstream}
+	texcl=true,
+	columns=fixed,
+	basewidth=0.5em,
+	tabsize=4
+}
+
+\usepackage[titles]{tocloft}
+
+% 调整目录引导线
+\renewcommand{\cftdot}{.}           % 设置点的样式
+\renewcommand{\cftdotsep}{0.5}        % 点之间的间距，数值越小点越密集
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}  % 章节引导线
+
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	urlcolor=blue,
+	citecolor=green
+}
+\usepackage{subcaption}
+
+
