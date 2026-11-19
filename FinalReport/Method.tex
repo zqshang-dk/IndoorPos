@@ -1,0 +1,66 @@
+\section{理论模型与程序实现}
+\subsection{距离交会与非线性最小二乘}
+设第 $i$ 个基站坐标为 $\bm{s}_i=(x_i,y_i,z_i)^T$，待求位置为 $\bm{p}$，观测距离满足
+\begin{equation}
+ d_i=\|\bm{p}-\bm{s}_i\|+\epsilon_i .
+ \label{eq:range}
+\end{equation}
+当目标高度已知时，可将未知量约化为平面坐标 $(x,y)$；教室程序直接采用二维模型。对当前估计 $\bm{p}_k$，令预测距离 $r_i=\|\bm{p}_k-\bm{s}_i\|$、残差 $l_i=d_i-r_i$，距离函数的雅可比行为 $\bm{h}_i^T=(\bm{p}_k-\bm{s}_i)^T/r_i$。线性化后通过正规方程求改正量
+\begin{equation}
+ (\bm{H}^T\bm{H})\Delta\bm{p}=\bm{H}^T\bm{l},\qquad
+ \bm{p}_{k+1}=\bm{p}_k+\Delta\bm{p}.
+ \label{eq:gn}
+\end{equation}
+代码以参与计算的基站中心作为初值，最多迭代 50 次，位置改正小于 $10^{-4}$ m 时停止，并以法方程行列式/高斯消元枢轴判断退化。无人机程序先将局部范围内的经纬度投影到以首个基站为原点的局部平面，再在已知高度下解二维问题；UWB 程序使用八个基站和三维未知量。此类最小二乘对异常测距敏感，当前实现没有鲁棒核或按观测方差加权。
+
+\subsection{RSS 指纹匹配}
+参考点 $j$ 的 AP $a$ 有效观测均值为
+\begin{equation}
+ \bar r_{j,a}=\frac{1}{n_{j,a}}\sum_{q\in\mathcal{V}_{j,a}} r_{q,a},
+ \label{eq:rss-mean}
+\end{equation}
+其中缺失值 $-110$ 不参与平均。对测试向量 $\bm{r}$，仅在双方共同有效的 AP 集合 $\mathcal{C}_j$ 上计算 RSS 均方根差 $D_j$，并定义覆盖率 $c_j=|\mathcal{C}_j|/|\mathcal{V}|$。代码使用相似度 $w_j=c_j/(1+D_j)$，选择最高分的 $K=3$ 个候选並按得分加权坐标：
+\begin{equation}
+ \hat{\bm{p}}=\frac{\sum_{j\in\mathcal{N}_K} w_j\bm{p}_j}
+ {\sum_{j\in\mathcal{N}_K}w_j}.
+ \label{eq:knn}
+\end{equation}
+此分数是匹配启发式，不是概率；共同 AP 少于 3 时不参与候选。均值指纹压缩了同一位置的时变分布，且算法未对不同 AP 的方差标准化，因此环境变化与强弱 AP 的尺度差异可能影响邻居次序。
+
+\subsection{PDR 航向、步检与位置递推}
+程序先由加速度计算横滚、俯仰角，对姿态角做 1 s 滑动平均，再使用课件对应的旋转变换将陀螺和磁场向量调平。航向来源包括调平后的磁强计方位和陀螺竖直分量积分；后者具有零偏累积。步伐检测使用加速度模的波谷阈值 $9.2\,\mathrm{m/s^2}$ 和最小步间隔 $0.30$ s。每检测到一步，程序以固定步长 $L=0.70$ m 更新水平位置：
+\begin{equation}
+ E_k=E_{k-1}+L\sin\psi_k,\qquad
+ N_k=N_{k-1}+L\cos\psi_k,
+ \label{eq:pdr}
+\end{equation}
+其中 $\psi_k$ 为步伐时刻航向。代码还尝试对 $z$ 轴角速度加 $0.25^\circ/\mathrm{s}$ 的试验补偿。源码注释明确该值未经过标定，故只能视作参数敏感性试验，不能称为已估计的零偏。
+
+\section{实验设计与结果}
+为核对实验图表覆盖度，先将实例报告图 1--15 与本报告内容逐张对应。图 1 为课程技术路线总览，属于课程组织示意；图 2 为开发环境截图，不是数据结果；图 3--5 分别示意距离交会、PDR 与 KNN 原理；图 6--7 展示 UWB 标签估计/真值的三维及平面轨迹，图 8--11 展示 PDR 惯性观测、姿态角、磁/陀螺航向和步伐检测，图 12--13 对比 PDR 航向补偿前后的轨迹；图 14--15 展示指纹定位轨迹及不同 K 的比较。表~\ref{tab:figure-map} 记录了本报告的重绘证据与未重绘原因。实例图只用于梳理展示逻辑，图形和数值均由本项目数据重新生成。
+
+\begin{table}[htbp]
+\centering\small
+\caption{实例报告图表与本报告图表对照清单}\label{tab:figure-map}
+\begin{tabular}{p{1.0cm}p{4.2cm}p{4.7cm}p{3.0cm}}
+\toprule
+实例图 & 图示内容及作用 & 本报告对应图表 & 重绘状态/数据依据 \\
+\midrule
+1 & 课程技术路线，说明内容组织 & 本报告理论与实验章节结构 & 不作为实验图重绘 \\
+2 & IDE 运行截图，展示开发环境 & 无 & 界面截图与实验结果无关，不复用 \\
+3 & 距离交会几何示意，解释测距定位 & 式~\ref{eq:range}--\ref{eq:gn}及教室轨迹 & 公式说明替代示意图 \\
+4 & PDR 原理流程/步进示意 & 式~\ref{eq:pdr}、图~\ref{fig:pdr-signals} & 以真实传感器与步检结果展示 \\
+5 & KNN 原理示意，说明邻居加权 & 式~\ref{eq:knn}、图~\ref{fig:k-sensitivity} & 公式与真实 K 对照替代示意 \\
+6 & UWB 标签估计与真值三维轨迹 & 图~\ref{fig:uwb}平面轨迹；图~\ref{fig:uwb-z}垂向分量 & 以平面轨迹和独立高度/误差图展示三维偏差 \\
+7 & UWB 平面轨迹及 RMSE/DOP 随时间 & 图~\ref{fig:uwb}、图~\ref{fig:uwb}误差子图 & 轨迹和误差重绘；没有可核验 DOP 序列，未绘制 DOP \\
+8 & PDR 加速度、角速度、磁场时序 & 图~\ref{fig:pdr-raw}与图~\ref{fig:pdr-signals} & 三轴原始传感器与处理后步伐/航向并列展示 \\
+9 & PDR 横滚、俯仰角随时间 & 图~\ref{fig:pdr-signals} & 重绘平滑横滚/俯仰，单位为度 \\
+10 & 磁航向与陀螺积分航向 & 图~\ref{fig:pdr-signals}、图~\ref{fig:pdr} & 重绘项目已有输出中的航向序列 \\
+11 & 步伐检测位置/时刻 & 图~\ref{fig:pdr-signals} & 以标记叠加在加速度模曲线上 \\
+12 & PDR 校正前轨迹与参考路径 & 图~\ref{fig:pdr}、图~\ref{fig:pdr-error} & 重绘磁航向与补偿陀螺轨迹 \\
+13 & PDR 校正后轨迹与参考路径 & 图~\ref{fig:pdr}、图~\ref{fig:pdr-error} & 重绘并补充步时刻误差曲线 \\
+14 & RSS 指纹定位轨迹 & 图~\ref{fig:fingerprint} & 使用原始训练/测试记录重算 \\
+15 & 不同 K 的指纹误差对比 & 图~\ref{fig:k-sensitivity} & 尝试 K=1,2,3,5,7,10 的同一测试集对照 \\
+\bottomrule
+\end{tabular}
+\end{table}
