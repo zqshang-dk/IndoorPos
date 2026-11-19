@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.8)  17 NOV 2026 19:18
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.8)  19 NOV 2026 20:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1748,52 +1748,9 @@ LaTeX Font Warning: Font shape `TU/SimHei(0)/b/n' undefined
 
  [1
 
-] (./Introduction.tex
+] (./Introduction.tex) (./Method.tex [1
 
-Package fontspec Info: 
-(fontspec)             Could not resolve font "FangSong/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "FangSong/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: 
-(fontspec)             Could not resolve font "FangSong/I" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: 
-(fontspec)             Font family 'FangSong(0)' created for font 'FangSong'
-(fontspec)             with options [Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 20--20
-[]|\TU/TimesNewRoman(0)/m/n/12 Android \TU/SimSun(1)/m/n/12 采 集 样
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]|\TU/SimSun(1)/m/n/12 无 人 机、| \TU/TimesNewRoman(0)/m/n/12 UWB\TU/SimSun(1)/m/
-n/12 、|
- []
-
-
-Underfull \hbox (badness 2846) in paragraph at lines 21--22
-\TU/SimSun(1)/m/n/12 报 告 不 报 告 这 些 组 的 精 度，|
- []
-
-) (./Method.tex [1
-
-] [2]
+]
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/m/n' will be
 (Font)              scaled to size 10.95116pt on input line 45.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(2)/m/n' will be
@@ -1932,18 +1889,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--64
  []
 
 ) (./Result.tex
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'FangSong(0)' created for font 'FangSong'
+(fontspec)             with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
+
 File: figures/classroom_range_track.png Graphic file (type bmp)
 <figures/classroom_range_track.png>
 File: figures/classroom_error_residual.pdf Graphic file (type pdf)
 <use figures/classroom_error_residual.pdf>
- [3] [4] [5]
+ [2] [3] [4]
 File: figures/fingerprint_track.png Graphic file (type bmp)
 <figures/fingerprint_track.png>
 File: figures/fingerprint_cdf.png Graphic file (type bmp)
 <figures/fingerprint_cdf.png>
 File: figures/fingerprint_k_sensitivity.pdf Graphic file (type pdf)
 <use figures/fingerprint_k_sensitivity.pdf>
- [6]
+ [5] [6]
 File: figures/pdr_track.png Graphic file (type bmp)
 <figures/pdr_track.png>
 File: figures/pdr_raw_sensors.pdf Graphic file (type pdf)
@@ -1952,12 +1935,12 @@ File: figures/pdr_signals.pdf Graphic file (type pdf)
 <use figures/pdr_signals.pdf>
 File: figures/pdr_error_time.pdf Graphic file (type pdf)
 <use figures/pdr_error_time.pdf>
- [7] [8]
+ [7]
 File: figures/uwb_tag2_track_error.pdf Graphic file (type pdf)
 <use figures/uwb_tag2_track_error.pdf>
 File: figures/uwb_tag2_vertical_error.pdf Graphic file (type pdf)
 <use figures/uwb_tag2_vertical_error.pdf>
- [9] [10]
+ [8] [9]
 Underfull \hbox (badness 10000) in paragraph at lines 97--97
 []|\TU/SimSun(1)/m/n/12 几 何 距 离 交
  []
@@ -1973,21 +1956,13 @@ Underfull \hbox (badness 1199) in paragraph at lines 98--98
  接 收 功
  []
 
-[11]
 File: figures/android_inertial_timeseries.pdf Graphic file (type pdf)
 <use figures/android_inertial_timeseries.pdf>
 File: figures/android_wifi_scan_density.pdf Graphic file (type pdf)
 <use figures/android_wifi_scan_density.pdf>
 File: figures/android_wifi_rss_timeseries.pdf Graphic file (type pdf)
 <use figures/android_wifi_rss_timeseries.pdf>
-) (./Conclusion.tex [12] [13]
-
-LaTeX Font Warning: Font shape `TU/SimSun(1)/m/it' undefined
-(Font)              using `TU/SimSun(1)/m/n' instead on input line 12.
-
-[14]) [15] (./appendix.tex) [16
-
-] (build/main.aux)
+) (./Conclusion.tex [10] [11] [12]) [13] (./appendix.tex) (build/main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -1997,15 +1972,15 @@ L3 programming layer <2022/08/05>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BF755186DA9DABEF77D0FB19C7469206;1935.
+(rerunfilecheck)             Checksum: CBF8776D39916479EC40E5E730F976AD;1616.
  ) 
 Here is how much of TeX's memory you used:
- 34716 strings out of 467992
- 724969 string characters out of 5427159
- 1223466 words of memory out of 5000000
- 62997 multiletter control sequences out of 15000+600000
- 636260 words of font info for 145 fonts, out of 8000000 for 9000
+ 34603 strings out of 467992
+ 718604 string characters out of 5427159
+ 1223120 words of memory out of 5000000
+ 62888 multiletter control sequences out of 15000+600000
+ 636228 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,13n,111p,1209b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,13n,111p,1209b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on build/main.pdf (18 pages).
+Output written on build/main.pdf (15 pages).

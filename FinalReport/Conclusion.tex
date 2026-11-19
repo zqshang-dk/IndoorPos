@@ -6,11 +6,11 @@
 \section{结论}
 本项目形成了从测距、RSS 匹配到惯性航迹推算的互补实验链。指纹算法在给定测试集上实现了 100\% 输出率，水平误差 RMSE 为 1.422 m；教室超声既有解算经参考轨迹复核得到 0.239 m RMSE，测距拟合残差中位数约 9.9 mm；PDR 既有轨迹按步伐时刻与经纬度参考路径对照得到 8.381 m RMSE。测距拟合残差与坐标误差含义不同，而跨实验数据条件也限制了算法横向排名。最值得进一步完成的工作是隔离重跑全部 C++ 程序、统一坐标系/时间基准，并基于独立重复采集开展参数标定和跨场景验证。
 
-\section*{参考资料}
-\addcontentsline{toc}{section}{参考资料}
-\begin{enumerate}[label={[\arabic*]},leftmargin=2.2em]
-\item 室内定位课程课件：\textit{室内定位技术——几何定位}、\textit{室内定位技术——航迹推算}、\textit{室内定位技术——数据库匹配}、\textit{室内定位传感器}，课程提供文件，2026。
-\item IndoorPos 项目源码：\url{src/DistanceIntersection/}、\url{src/Fingerprint/}、\url{src/PDR/}、\url{src/Sensors/}，课程实验材料。
-\item IndoorPos 实验数据说明：距离交会数据目录下 \texttt{数据格式.md/readme.md}、指纹定位数据及 PDR 数据文件，课程实验材料。
-\item Android Sensors 数据采集说明：配套使用文档及 \texttt{DataConvert} MATLAB 转换程序，项目配套材料。
-\end{enumerate}
+% \section*{参考资料}
+% \addcontentsline{toc}{section}{参考资料}
+% \begin{enumerate}[label={[\arabic*]},leftmargin=2.2em]
+% \item 室内定位课程课件：\textit{室内定位技术——几何定位}、\textit{室内定位技术——航迹推算}、\textit{室内定位技术——数据库匹配}、\textit{室内定位传感器}，课程提供文件，2026。
+% \item IndoorPos 项目源码：\url{src/DistanceIntersection/}、\url{src/Fingerprint/}、\url{src/PDR/}、\url{src/Sensors/}，课程实验材料。
+% \item IndoorPos 实验数据说明：距离交会数据目录下 \texttt{数据格式.md/readme.md}、指纹定位数据及 PDR 数据文件，课程实验材料。
+% \item Android Sensors 数据采集说明：配套使用文档及 \texttt{DataConvert} MATLAB 转换程序，项目配套材料。
+% \end{enumerate}

@@ -1,0 +1,3221 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2026.11.17)  17 NOV 2026 19:47
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexart.cls
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2021/12/12 v2.5.8 Backend configuration file (CTEX)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count181
+\l__color_backend_stack_int=\count182
+\g__color_backend_stack_int=\count183
+\g__graphics_track_int=\count184
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count185
+\g__pdf_backend_annotation_int=\count186
+\g__pdf_backend_link_int=\count187
+))
+Document Class: ctexart 2021/12/12 v2.5.8 Chinese adapter for class article (CT
+EX)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count188
+\l__ctex_tmp_box=\box51
+\l__ctex_tmp_dim=\dimen138
+\g__ctex_section_depth_int=\count189
+\g__ctex_font_size_int=\count190
+
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count191
+\c@section=\count192
+\c@subsection=\count193
+\c@subsubsection=\count194
+\c@paragraph=\count195
+\c@subparagraph=\count196
+\c@figure=\count197
+\c@table=\count198
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2021/12/12 v2.5.8 XeLaTeX adapter (CTEX)
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen140
+\l__xtemplate_tmp_int=\count199
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count266
+\l__xeCJK_tmp_box=\box52
+\l__xeCJK_tmp_dim=\dimen141
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count267
+\l__xeCJK_begin_int=\count268
+\l__xeCJK_end_int=\count269
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count270
+\c__xeCJK_CJK_node_dim=\dimen142
+\c__xeCJK_CJK-space_node_dim=\dimen143
+\c__xeCJK_default_node_dim=\dimen144
+\c__xeCJK_default-space_node_dim=\dimen145
+\c__xeCJK_CJK-widow_node_dim=\dimen146
+\c__xeCJK_normalspace_node_dim=\dimen147
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count271
+\l__xeCJK_last_bound_dim=\dimen148
+\l__xeCJK_last_kern_dim=\dimen149
+\l__xeCJK_widow_penalty_int=\count272
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2337.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen150
+\l__xeCJK_mixed_punct_width_dim=\dimen151
+\l__xeCJK_middle_punct_width_dim=\dimen152
+\l__xeCJK_fixed_margin_width_dim=\dimen153
+\l__xeCJK_mixed_margin_width_dim=\dimen154
+\l__xeCJK_middle_margin_width_dim=\dimen155
+\l__xeCJK_bound_punct_width_dim=\dimen156
+\l__xeCJK_bound_margin_width_dim=\dimen157
+\l__xeCJK_margin_minimum_dim=\dimen158
+\l__xeCJK_kerning_total_width_dim=\dimen159
+\l__xeCJK_same_align_margin_dim=\dimen160
+\l__xeCJK_different_align_margin_dim=\dimen161
+\l__xeCJK_kerning_margin_width_dim=\dimen162
+\l__xeCJK_kerning_margin_minimum_dim=\dimen163
+\l__xeCJK_bound_dim=\dimen164
+\l__xeCJK_reverse_bound_dim=\dimen165
+\l__xeCJK_margin_dim=\dimen166
+\l__xeCJK_minimum_bound_dim=\dimen167
+\l__xeCJK_kerning_margin_dim=\dimen168
+\g__xeCJK_family_int=\count273
+\l__xeCJK_fam_int=\count274
+\g__xeCJK_fam_allocation_int=\count275
+\l__xeCJK_verb_case_int=\count276
+\l__xeCJK_verb_exspace_skip=\skip55
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count277
+\l__fontspec_language_int=\count278
+\l__fontspec_strnum_int=\count279
+\l__fontspec_tmp_int=\count280
+\l__fontspec_tmpa_int=\count281
+\l__fontspec_tmpb_int=\count282
+\l__fontspec_tmpc_int=\count283
+\l__fontspec_em_int=\count284
+\l__fontspec_emdef_int=\count285
+\l__fontspec_strong_int=\count286
+\l__fontspec_strongdef_int=\count287
+\l__fontspec_tmpa_dim=\dimen169
+\l__fontspec_tmpb_dim=\dimen170
+\l__fontspec_tmpc_dim=\dimen171
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
+))
+\ccwd=\dimen172
+\l__ctex_ccglue_skip=\skip56
+)
+\l__ctex_ziju_dim=\dimen173
+
+(/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count288
+
+(/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip57
+
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-articl
+e.def
+File: ctex-scheme-chinese-article.def 2021/12/12 v2.5.8 Chinese scheme for arti
+cle (CTEX)
+ (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.de
+f
+File: ctex-fontset-fandol.def 2021/12/12 v2.5.8 Fandol fonts definition (CTEX)
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold
+},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)) (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
+)
+(./package.tex (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen174
+\Gm@wd@mp=\dimen175
+\Gm@odd@mp=\dimen176
+\Gm@even@mp=\dimen177
+\Gm@layoutwidth=\dimen178
+\Gm@layoutheight=\dimen179
+\Gm@layouthoffset=\dimen180
+\Gm@layoutvoffset=\dimen181
+\Gm@dimlist=\toks17
+)
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault'
+(xeCJK)                (FandolSong-Regular(0)).
+
+
+./package.tex:10: Package fontspec Error: The font "SimSun" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.10 \setCJKmainfont{SimSun}[AutoFakeBold=true]
+                                               
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Warning: Font "SimSun" does not contain requested Script
+(fontspec)                "CJK".
+
+
+Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+./package.tex:10: Package fontspec Error: The font "SimSun" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.10 \setCJKmainfont{SimSun}[AutoFakeBold=true]
+                                               
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:10: Package fontspec Error: The font "SimSun" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.10 \setCJKmainfont{SimSun}[AutoFakeBold=true]
+                                               
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:10: Package fontspec Error: The font "SimSun" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.10 \setCJKmainfont{SimSun}[AutoFakeBold=true]
+                                               
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:10: Package fontspec Error: The font "SimSun" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.10 \setCJKmainfont{SimSun}[AutoFakeBold=true]
+                                               
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options [Script={CJK},AutoFakeBold={4}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"SimSun/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"SimSun/OT"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:embolden=4;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:embolden=4;"
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKsfdefault'
+(xeCJK)                (FandolHei-Regular).
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKttdefault'
+(xeCJK)                (FandolFang-Regular).
+
+
+./package.tex:17: Package fontspec Error: The font "Times New Roman" cannot be 
+found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ]
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:17: Package fontspec Error: The font "Times New Roman" cannot be 
+found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ]
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:17: Package fontspec Error: The font "Times New Roman" cannot be 
+found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ]
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:17: Package fontspec Error: The font "Times New Roman Bold" canno
+t be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ]
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:17: Package fontspec Error: The font "Times New Roman Bold" canno
+t be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ]
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:17: Package fontspec Error: The font "Times New Roman Italic" can
+not be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ]
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:17: Package fontspec Error: The font "Times New Roman Italic" can
+not be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ]
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:17: Package fontspec Error: The font "Times New Roman Bold Italic
+" cannot be
+(fontspec)                found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ]
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./package.tex:17: Package fontspec Error: The font "Times New Roman Bold Italic
+" cannot be
+(fontspec)                found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ]
+      
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX,BoldFont = Times
+(fontspec)             New Roman Bold,ItalicFont = Times New Roman
+(fontspec)             Italic,BoldItalicFont = Times New Roman Bold Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New Roman"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New Roman
+(fontspec)             Bold"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New Roman Bold"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New Roman
+(fontspec)             Italic"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New Roman Italic"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman Bold Italic"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New Roman Bold Italic"
+
+./package.tex:17: Font TU/TimesNewRoman(0)/m/n/12="Times New Roman" at 12.0pt n
+ot loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.17 ]
+      
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen182
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen183
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count292
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count293
+\leftroot@=\count294
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count295
+\DOTSCASE@=\count296
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen184
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count297
+\c@MaxMatrixCols=\count298
+\dotsspace@=\muskip17
+\c@parentequation=\count299
+\dspbrk@lvl=\count300
+\tag@help=\toks19
+\row@=\count301
+\column@=\count302
+\maxfields@=\count303
+\andhelp@=\toks20
+\eqnshift@=\dimen185
+\alignsep@=\dimen186
+\tagshift@=\dimen187
+\tagwidth@=\dimen188
+\totwidth@=\dimen189
+\lineht@=\dimen190
+\@envbody=\toks21
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+\g__um_fam_int=\count304
+\g__um_fonts_used_int=\count305
+\l__um_primecount_int=\count306
+\g__um_primekern_muskip=\muskip18
+
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+
+Package fontspec Info: Could not resolve font "TeX Gyre Termes Math/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'TeXGyreTermesMath(0)' created for font
+(fontspec)             'TeX Gyre Termes Math' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"TeX Gyre Termes
+(fontspec)             Math/OT:script=math;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "TeX Gyre Termes Math/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'TeXGyreTermesMath(1)' created for font
+(fontspec)             'TeX Gyre Termes Math' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=10.44-},{Size=7.74-10.44,Font=TeX
+(fontspec)             Gyre Termes Math,Style=MathScript},{Size=-7.74,Font=TeX
+(fontspec)             Gyre Termes Math,Style=MathScriptScript}}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <10.44->"TeX Gyre
+(fontspec)             Termes
+(fontspec)             Math/OT:script=math;language=dflt;"<7.74-10.44>"TeX
+(fontspec)             Gyre Termes
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=0;"<-7.74>"TeX
+(fontspec)             Gyre Termes Math/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 23.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TeXGyreTermesMath(1)/m/n on input li
+ne 23.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 23.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TeXGyreTermesMath(1)/b/n on input l
+ine 23.
+
+Package fontspec Info: TeX Gyre Termes Math scale = 1.0001.
+
+
+Package fontspec Info: Could not resolve font "TeX Gyre Termes Math/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: TeX Gyre Termes Math scale = 1.0001.
+
+
+Package fontspec Info: TeX Gyre Termes Math scale = 1.0001.
+
+
+Package fontspec Info: TeX Gyre Termes Math scale = 1.0001.
+
+
+Package fontspec Info: Font family 'TeXGyreTermesMath(2)' created for font
+(fontspec)             'TeX Gyre Termes Math' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=10.44-},{Size=7.74-10.44,Font=TeX
+(fontspec)             Gyre Termes Math,Style=MathScript},{Size=-7.74,Font=TeX
+(fontspec)             Gyre Termes
+(fontspec)             Math,Style=MathScriptScript}},ScaleAgain=1.0001,FontAdju
+stment={\fontdimen
+(fontspec)             8\font =7.608pt\relax \fontdimen 9\font =5.16pt\relax
+(fontspec)             \fontdimen 10\font =5.16pt\relax \fontdimen 11\font
+(fontspec)             =7.176pt\relax \fontdimen 12\font =3.192pt\relax
+(fontspec)             \fontdimen 13\font =4.068pt\relax \fontdimen 14\font
+(fontspec)             =4.068pt\relax \fontdimen 15\font =3.408pt\relax
+(fontspec)             \fontdimen 16\font =2.664pt\relax \fontdimen 17\font
+(fontspec)             =2.664pt\relax \fontdimen 18\font =2.664pt\relax
+(fontspec)             \fontdimen 19\font =1.332pt\relax \fontdimen 22\font
+(fontspec)             =3.0pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.44->s*[1.0001]"TeX Gyre Termes
+(fontspec)             Math/OT:script=math;language=dflt;"<7.74-10.44>s*[1.0001
+]"TeX
+(fontspec)             Gyre Termes
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=0;"<-7.74>s*[1.0
+001]"TeX
+(fontspec)             Gyre Termes Math/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =7.608pt\relax \fontdimen 9\font
+(fontspec)             =5.16pt\relax \fontdimen 10\font =5.16pt\relax
+(fontspec)             \fontdimen 11\font =7.176pt\relax \fontdimen 12\font
+(fontspec)             =3.192pt\relax \fontdimen 13\font =4.068pt\relax
+(fontspec)             \fontdimen 14\font =4.068pt\relax \fontdimen 15\font
+(fontspec)             =3.408pt\relax \fontdimen 16\font =2.664pt\relax
+(fontspec)             \fontdimen 17\font =2.664pt\relax \fontdimen 18\font
+(fontspec)             =2.664pt\relax \fontdimen 19\font =1.332pt\relax
+(fontspec)             \fontdimen 22\font =3.0pt\relax \fontdimen 20\font
+(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/TeXGyreTermesMath(2)/m/n on input l
+ine 23.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/TeXGyreTermesMath(2)/b/n on input l
+ine 23.
+
+Package fontspec Info: TeX Gyre Termes Math scale = 0.9999.
+
+
+Package fontspec Info: Could not resolve font "TeX Gyre Termes Math/B" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: TeX Gyre Termes Math scale = 0.9999.
+
+
+Package fontspec Info: TeX Gyre Termes Math scale = 0.9999.
+
+
+Package fontspec Info: TeX Gyre Termes Math scale = 0.9999.
+
+
+Package fontspec Info: Font family 'TeXGyreTermesMath(3)' created for font
+(fontspec)             'TeX Gyre Termes Math' with options
+(fontspec)             [BoldItalicFont={},ItalicFont={},SmallCapsFont={},Script
+=Math,SizeFeatures={{Size=10.44-},{Size=7.74-10.44,Font=TeX
+(fontspec)             Gyre Termes Math,Style=MathScript},{Size=-7.74,Font=TeX
+(fontspec)             Gyre Termes
+(fontspec)             Math,Style=MathScriptScript}},ScaleAgain=0.9999,FontAdju
+stment={\fontdimen
+(fontspec)             8\font =0.624pt\relax \fontdimen 9\font =1.2pt\relax
+(fontspec)             \fontdimen 10\font =1.2pt\relax \fontdimen 11\font
+(fontspec)             =1.2pt\relax \fontdimen 12\font =5.196pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <10.44->s*[0.9999]"TeX Gyre Termes
+(fontspec)             Math/OT:script=math;language=dflt;"<7.74-10.44>s*[0.9999
+]"TeX
+(fontspec)             Gyre Termes
+(fontspec)             Math/OT:script=math;language=dflt;+ssty=0;"<-7.74>s*[0.9
+999]"TeX
+(fontspec)             Gyre Termes Math/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.624pt\relax \fontdimen 9\font
+(fontspec)             =1.2pt\relax \fontdimen 10\font =1.2pt\relax \fontdimen
+(fontspec)             11\font =1.2pt\relax \fontdimen 12\font =5.196pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 2
+3.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/TeXGyreTermesMath(3)/m/n on input l
+ine 23.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 23.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/TeXGyreTermesMath(3)/b/n on input l
+ine 23.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen191
+\Gin@req@width=\dimen192
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count307
+\float@exts=\toks23
+\float@box=\box55
+\@float@everytoks=\toks24
+\@floatcapt=\box56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen193
+\captionmargin@=\dimen194
+\captionwidth=\dimen195
+\caption@tempdima=\dimen196
+\caption@indent=\dimen197
+\caption@parindent=\dimen198
+\caption@hangindent=\dimen199
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count308
+\c@continuedfloat=\count309
+Package caption Info: float package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count310
+\c@subtable=\count311
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen256
+\ar@mcellbox=\box57
+\extrarowheight=\dimen257
+\NC@list=\toks25
+\extratabsurround=\skip61
+\backup@length=\skip62
+\ar@cellbox=\box58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen258
+\lightrulewidth=\dimen259
+\cmidrulewidth=\dimen260
+\belowrulesep=\dimen261
+\belowbottomsep=\dimen262
+\aboverulesep=\dimen263
+\abovetopsep=\dimen264
+\cmidrulesep=\dimen265
+\cmidrulekern=\dimen266
+\defaultaddspace=\dimen267
+\@cmidla=\count312
+\@cmidlb=\count313
+\@aboverulesep=\dimen268
+\@belowrulesep=\dimen269
+\@thisruleclass=\count314
+\@lastruleclass=\count315
+\@thisrulewidth=\dimen270
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip63
+\multirow@cntb=\count316
+\multirow@dima=\skip64
+\bigstrutjot=\dimen271
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen272
+\TX@old@table=\dimen273
+\TX@old@col=\dimen274
+\TX@target=\dimen275
+\TX@delta=\dimen276
+\TX@cols=\count317
+\TX@ftn=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip65
+\enit@outerparindent=\dimen277
+\enit@toks=\toks27
+\enit@inbox=\box59
+\enit@count@id=\count318
+\enitdp@description=\count319
+)
+\c@mynumi=\count320
+\enitdp@mynum=\count321
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks28
+\verbatim@line=\toks29
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count322
+\lst@gtempboxa=\box60
+\lst@token=\toks30
+\lst@length=\count323
+\lst@currlwidth=\dimen278
+\lst@column=\count324
+\lst@pos=\count325
+\lst@lostspace=\dimen279
+\lst@width=\dimen280
+\lst@newlines=\count326
+\lst@lineno=\count327
+\lst@maxwidth=\dimen281
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count328
+\lst@skipnumbers=\count329
+\lst@framebox=\box61
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2021/12/12 v3.8.8 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count330
+\l__xeCJK_listings_flag_int=\count331
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip66
+\f@nch@O@elh=\skip67
+\f@nch@O@erh=\skip68
+\f@nch@O@olh=\skip69
+\f@nch@O@orh=\skip70
+\f@nch@O@elf=\skip71
+\f@nch@O@erf=\skip72
+\f@nch@O@olf=\skip73
+\f@nch@O@orf=\skip74
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip75
+\cftbeforetoctitleskip=\skip76
+\cftaftertoctitleskip=\skip77
+\cftbeforepartskip=\skip78
+\cftpartnumwidth=\skip79
+\cftpartindent=\skip80
+\cftbeforesecskip=\skip81
+\cftsecindent=\skip82
+\cftsecnumwidth=\skip83
+\cftbeforesubsecskip=\skip84
+\cftsubsecindent=\skip85
+\cftsubsecnumwidth=\skip86
+\cftbeforesubsubsecskip=\skip87
+\cftsubsubsecindent=\skip88
+\cftsubsubsecnumwidth=\skip89
+\cftbeforeparaskip=\skip90
+\cftparaindent=\skip91
+\cftparanumwidth=\skip92
+\cftbeforesubparaskip=\skip93
+\cftsubparaindent=\skip94
+\cftsubparanumwidth=\skip95
+\cftbeforeloftitleskip=\skip96
+\cftafterloftitleskip=\skip97
+\cftbeforefigskip=\skip98
+\cftfigindent=\skip99
+\cftfignumwidth=\skip100
+\c@lofdepth=\count332
+\c@lotdepth=\count333
+\cftbeforelottitleskip=\skip101
+\cftafterlottitleskip=\skip102
+\cftbeforetabskip=\skip103
+\cfttabindent=\skip104
+\cfttabnumwidth=\skip105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen282
+\Hy@linkcounter=\count334
+\Hy@pagecounter=\count335
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count336
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count337
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip19
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen283
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count338
+\Field@Width=\dimen284
+\Fld@charsize=\dimen285
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count339
+\c@Item=\count340
+\c@Hfootnote=\count341
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box62
+\c@Hy@AnnotLevel=\count342
+\HyField@AnnotCount=\count343
+\Fld@listcount=\count344
+\c@bookmark@seq@number=\count345
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip106
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 119.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen286
+\pgfutil@tempdimb=\dimen287
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box63
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen288
+\pgf@y=\dimen289
+\pgf@xa=\dimen290
+\pgf@ya=\dimen291
+\pgf@xb=\dimen292
+\pgf@yb=\dimen293
+\pgf@xc=\dimen294
+\pgf@yc=\dimen295
+\pgf@xd=\dimen296
+\pgf@yd=\dimen297
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count346
+\c@pgf@countb=\count347
+\c@pgf@countc=\count348
+\c@pgf@countd=\count349
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count350
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count351
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count352
+\pgfsyssoftpath@bigbuffer@items=\count353
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen298
+\pgfmath@count=\count354
+\pgfmath@box=\box64
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count355
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen299
+\pgf@picmaxx=\dimen300
+\pgf@picminy=\dimen301
+\pgf@picmaxy=\dimen302
+\pgf@pathminx=\dimen303
+\pgf@pathmaxx=\dimen304
+\pgf@pathminy=\dimen305
+\pgf@pathmaxy=\dimen306
+\pgf@xx=\dimen307
+\pgf@xy=\dimen308
+\pgf@yx=\dimen309
+\pgf@yy=\dimen310
+\pgf@zx=\dimen311
+\pgf@zy=\dimen312
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen313
+\pgf@path@lasty=\dimen314
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen315
+\pgf@shorten@start@additional=\dimen316
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box65
+\pgf@hbox=\box66
+\pgf@layerbox@main=\box67
+\pgf@picture@serial@count=\count356
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen317
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen318
+\pgf@pt@y=\dimen319
+\pgf@pt@temp=\dimen320
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen321
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen322
+\pgf@sys@shading@range@num=\count357
+\pgf@shadingcount=\count358
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box68
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box69
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen323
+\pgf@nodesepend=\dimen324
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen325
+\pgffor@skip=\dimen326
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count359
+\pgfplotmarksize=\dimen327
+)
+\tikz@lastx=\dimen328
+\tikz@lasty=\dimen329
+\tikz@lastxsaved=\dimen330
+\tikz@lastysaved=\dimen331
+\tikz@lastmovetox=\dimen332
+\tikz@lastmovetoy=\dimen333
+\tikzleveldistance=\dimen334
+\tikzsiblingdistance=\dimen335
+\tikz@figbox=\box70
+\tikz@figbox@bg=\box71
+\tikz@tempbox=\box72
+\tikz@tempbox@bg=\box73
+\tikztreelevel=\count360
+\tikznumberofchildren=\count361
+\tikznumberofcurrentchild=\count362
+\tikz@fig@count=\count363
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count364
+\pgfmatrixcurrentcolumn=\count365
+\pgf@matrix@numberofcolumns=\count366
+)
+\tikz@expandcount=\count367
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))))
+(/usr/share/texlive/texmf-dist/tex/latex/attachfile2/attachfile2.sty
+Package: attachfile2 2019/11/26 v2.11 Attach files into PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/attachfile2/atfi-dvipdfmx.def
+File: atfi-dvipdfmx.def 2019/11/26 v2.11 attachfile2 driver for dvipdfmx/XeTeX 
+(HO)
+\c@atfi@obj=\count368
+)
+(./main.atfi)
+\atfi@stream=\write4
+\openout4 = `main.atfi'.
+
+\atfi@appearancewidth=\skip107
+\atfi@appearanceheight=\skip108
+\atfi@appearancedepth=\skip109
+\atfi@appearancebox=\box74
+\c@atfi@flags=\count369
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-54.86449pt
+* \headheight=14.5pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  TU/TeXGyreTermesMath(1)/m/n --> TU/TimesNewRoman(0)/m/n
+ on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+5.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 5.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 5.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count370
+Package hyperref Info: Link coloring ON on input line 5.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count371
+)
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
+
+(./main.out) (./main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(./cover.tex
+File: figures/WHU大字.JPG Graphic file (type bmp)
+<figures/WHU大字.JPG>
+
+./cover.tex:12: Font TU/TimesNewRoman(0)/m/n/24="Times New Roman" at 24.0pt not
+ loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.12 ^^I{\fontsize{24pt}{30pt}\selectfont
+                                          \textbf{\kai 室内定位技术结课报告}} \\[3cm] ...
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+./cover.tex:12: Font TU/TimesNewRoman(0)/b/n/24="Times New Roman Bold" at 24.0p
+t not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.12 ...{30pt}\selectfont \textbf{\kai 室内定位技术结课报告}
+                                                  } \\[3cm]   % 大字号，换行后间距1cm
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+
+./cover.tex:12: Package fontspec Error: The font "KaiTi" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.12 ...{30pt}\selectfont \textbf{\kai 室内定位技术结课报告}
+                                                  } \\[3cm]   % 大字号，换行后间距1cm
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Warning: Font "KaiTi" does not contain requested Script
+(fontspec)                "CJK".
+
+
+Package fontspec Info: Could not resolve font "KaiTi/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "KaiTi/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "KaiTi/I" (it probably doesn't
+(fontspec)             exist).
+
+
+./cover.tex:12: Package fontspec Error: The font "KaiTi" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.12 ...{30pt}\selectfont \textbf{\kai 室内定位技术结课报告}
+                                                  } \\[3cm]   % 大字号，换行后间距1cm
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./cover.tex:12: Package fontspec Error: The font "KaiTi" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.12 ...{30pt}\selectfont \textbf{\kai 室内定位技术结课报告}
+                                                  } \\[3cm]   % 大字号，换行后间距1cm
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./cover.tex:12: Package fontspec Error: The font "KaiTi" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.12 ...{30pt}\selectfont \textbf{\kai 室内定位技术结课报告}
+                                                  } \\[3cm]   % 大字号，换行后间距1cm
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+./cover.tex:12: Package fontspec Error: The font "KaiTi" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.12 ...{30pt}\selectfont \textbf{\kai 室内定位技术结课报告}
+                                                  } \\[3cm]   % 大字号，换行后间距1cm
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Info: Font family 'KaiTi(0)' created for font 'KaiTi' with
+(fontspec)             options [Script={CJK},AutoFakeBold={4}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"KaiTi/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"KaiTi/OT"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:embolden=4;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"KaiTi/OT:embolden=4;"
+
+./cover.tex:12: Font TU/KaiTi(0)/b/n/24=KaiTi/OT:embolden=4; at 24.0pt not load
+able: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.12 ...{30pt}\selectfont \textbf{\kai 室内定位技术结课报告}
+                                                  } \\[3cm]   % 大字号，换行后间距1cm
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no 室 ("5BA4) in font nullfont!
+Missing character: There is no 内 ("5185) in font nullfont!
+Missing character: There is no 定 ("5B9A) in font nullfont!
+Missing character: There is no 位 ("4F4D) in font nullfont!
+Missing character: There is no 技 ("6280) in font nullfont!
+Missing character: There is no 术 ("672F) in font nullfont!
+Missing character: There is no 结 ("7ED3) in font nullfont!
+Missing character: There is no 课 ("8BFE) in font nullfont!
+Missing character: There is no 报 ("62A5) in font nullfont!
+Missing character: There is no 告 ("544A) in font nullfont!
+./cover.tex:17: Font TU/TimesNewRoman(0)/m/n/17.28="Times New Roman" at 17.28pt
+ not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.17 ^^I{\Large
+                \textbf{《室内定位技术》}} \\[3cm]  % 加粗，换行后间距1.5cm
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+./cover.tex:17: Font TU/TimesNewRoman(0)/b/n/17.28="Times New Roman Bold" at 17
+.28pt not loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+./cover.tex:17: Font TU/SimSun(0)/b/n/17.28=SimSun/OT:embolden=4; at 17.28pt no
+t loadable: Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+I was expecting to see `+', `-', `*', `/', or `)'. Didn't.
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/dimen/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)-(0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end:
+)\__dim_eval_end: 
+
+
+Missing character: There is no 1 ("31) in font nullfont!
+./cover.tex:17: You can't use `\XeTeXcharglyph' in horizontal mode.
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl ...
+                                                  `《\exp_stop_f: \__dim_eval...
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no ` ("60) in font nullfont!
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/left/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt1 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+./cover.tex:17: Cannot use \XeTeXglyphbounds with nullfont; not a native platfo
+rm font.
+<recently read> \tex_XeTeXglyphbounds:D 
+                                        
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)       
+\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/bound/right/《/tl' but this
+name has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt3 \tex_XeTeXcharglyph:D `《\exp_stop_f: \__dim_eval_end: 
+
+
+
+./cover.tex:17: LaTeX3 Error: Control sequence
+(LaTeX3)        \c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl
+(LaTeX3)        already defined.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+
+This is a coding error.
+
+LaTeX has been asked to create a new control sequence
+'\c__xeCJK_xeCJK/SimSun(0)/b/n/17.28/quanjiao/dim/width/《/tl' but this name
+has already been used elsewhere.
+
+The current meaning is:
+  macro:->0.0pt
+
+
+./cover.tex:17: Missing ) inserted for expression.
+<to be read again> 
+                   1
+l.17 ^^I{\Large \textbf{《室内定位技术》}
+                                 } \\[3cm]  % 加粗，换行后间距1.5cm
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 33612 strings out of 477756
+ 681238 string characters out of 5843517
+ 1062249 words of memory out of 5000000
+ 53745 multiletter control sequences out of 15000+600000
+ 471658 words of font info for 45 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 93i,1n,117p,1213b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.
